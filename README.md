@@ -7,7 +7,7 @@ Este documento serve como guia para o planeamento e execução do projeto de Des
 
 ## 1. Visão Geral do Projeto
 * **Nome do Sistema:** [Insira o nome do projeto]
-* **Equipa:** [Nomes dos Alunos e respetivos papéis]
+* **Equipe:** [Nomes dos Alunos e respetivos papéis]
 * **O Problema (A Dor):** Descreva de forma clara o problema que o sistema resolve. Por que é que este software precisa de existir?
 * **Público-Alvo:** Quem são os utilizadores finais? (Ex: Estudantes do IFSP, donos de pequenos negócios, utilizadores de ginásios).
 
